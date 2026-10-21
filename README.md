@@ -2,7 +2,7 @@
 
 # Merhaba, ben Mirac Mert Güler 👋
 
-**Bilgisayar mühendisliği öğrencisi · Sistemlerin içini merak eden, fikirleri ürüne dönüştürmeyi seven biri.**
+**Bahçeşehir Üniversitesi’nde bilgisayar mühendisliği öğrencisi · Sistemlerin içini merak eden, fikirleri ürüne dönüştürmeyi seven biri.**
 
 [Kelime Oyunu'nu oyna](https://mirac-guler.github.io/kelime-oyunu/) · [Projelerimi keşfet](https://github.com/mirac-guler?tab=repositories)
 
@@ -28,6 +28,15 @@ TV'deki kelime oyunu formatını tarayıcıya taşıyan, sıcak ve nostaljik bir
 - Mobil uyumlu arayüzünü ve cevap giriş akışını kullanıcı geri bildirimleriyle iyileştirdim.
 
 **[Canlı oyna →](https://mirac-guler.github.io/kelime-oyunu/)**
+
+### Diğer projelerim
+
+| Proje | Neler var? |
+| :--- | :--- |
+| [Redis Workshop](https://github.com/mirac-guler/redis-workshop) | Redis veri yapıları, Docker kurulumu, Redis CLI ve leaderboard demosu |
+| [Movie Explorer](https://github.com/mirac-guler/movie-explorer) | OMDb REST API ile film arama, detaylar ve puanlar |
+| [Calculator](https://github.com/mirac-guler/calculator) | Klavye desteği, işlem geçmişi ve DEC / BIN / HEX gösterimleri |
+| [İlk web uygulamam](https://github.com/mirac-guler/firstwebsite) | Görevleri saklayan, tamamlanma durumunu takip eden responsive yapılacaklar listesi |
 
 ### Öğrendiğim ve keşfettiğim alanlar
 
